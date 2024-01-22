@@ -7,7 +7,7 @@ npm (Node Package Manager)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/emergency-supplies-management.git
+git clone https://github.com/galavital13/assigment1-web
 Navigate to the project directory:
 
 cd emergency-supplies-management
